@@ -7,4 +7,4 @@ _Why yes, I __do__ code outside of work._
 - 💬 Ask me about my day.
 - 📫 How to reach me: send email to [kemal@elmizan.com](mailto:kemal@elmizan.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: updating this README.md is counted in the contribution green boxes, but does not show up in contribution activity. 
+- ⚡ Fun fact: updating this README.md is counted in contribution activity. 
