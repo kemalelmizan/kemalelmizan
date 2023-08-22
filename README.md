@@ -1,4 +1,4 @@
-_Why yes, I __do__ code outside of work._
+_I code outside of work._
 
 - 🔭 I’m currently working on Svelte, Typescript and Deno projects.
 - 🌱 I’m currently learning Ruby and Clojure.
